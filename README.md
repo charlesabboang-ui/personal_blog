@@ -6,7 +6,7 @@ Personal website and bilingual (English/French) blog of **Charles De Gaule Abboa
 - **Maths:** university-level notes with statements and proofs (analysis, algebra, differential geometry).
 - Also included: Journey, Research (publications) and Contact pages.
 
-Live site: `https://charlesabboang.github.io/blog` .
+Live site: `https://charlesabboang.github.io/personal_blog/` .
 
 ## Project structure
 
