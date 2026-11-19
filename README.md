@@ -1,6 +1,6 @@
-# Charles Abboang: My Life in Trieste & Maths
+# My Life in Trieste & Maths
 
-Personal website and bilingual (English/French) blog of **Charles De Gaule Abboang Aveved**, a mathematics student at ICTP, Trieste.
+Here is personal website and bilingual (English/French) blog, I  am mathematics student at ICTP, Trieste.
 
 - **My Life in Trieste:** stories from an international student in Italy.
 - **Maths:** university-level notes with statements and proofs (analysis, algebra, differential geometry).
